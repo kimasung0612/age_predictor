@@ -2,3 +2,5 @@ weight/model_age.hdf5 filter=lfs diff=lfs merge=lfs -text
 weight/model_gender.hdf5 filter=lfs diff=lfs merge=lfs -text
 .yoloface/face_detection.cfg filter=lfs diff=lfs merge=lfs -text
 .yoloface/face_detection.weights filter=lfs diff=lfs merge=lfs -text
+.yoloface/yolov3_tiny_face.cfg filter=lfs diff=lfs merge=lfs -text
+.yoloface/yolov3-tiny_face.weights filter=lfs diff=lfs merge=lfs -text
