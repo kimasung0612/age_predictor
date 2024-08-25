@@ -6,11 +6,6 @@ atomicwrites==1.4.0
 backports.weakref==1.0.post1
 blinker==1.8.2
 brotlipy==0.7.0
-cachetools==5.4.0
-clyent==1.2.2
-cssselect==1.1.0
-daal4py==2023.1.1
-datashape==0.5.4
 keras==3.4.1
 opencv-python==4.10.0.84
 openpyxl==3.0.10
