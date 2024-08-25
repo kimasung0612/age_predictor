@@ -42,8 +42,8 @@ if file is not None:
     st.image(img)
     file_path = save_uploaded_file(file)
 
-    age_model_path = "C:/Users/MEGA/Desktop/AS/streamlit/weight/model_age.hdf5"
-    gender_model_path = "C:/Users/MEGA/Desktop/AS/streamlit/weight/model_gender.hdf5"
+    age_model_path = "./weight/model_age.hdf5"
+    gender_model_path = "./weight/model_gender.hdf5"
 
     model_age = load_model(age_model_path)
     model_gender = load_model(gender_model_path)
