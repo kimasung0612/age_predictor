@@ -7,6 +7,7 @@ backports.weakref==1.0.post1
 blinker==1.8.2
 brotlipy==0.7.0
 keras==3.4.1
+numpy
 opencv-python-headless
 openpyxl==3.0.10
 opt-einsum==3.3.0
